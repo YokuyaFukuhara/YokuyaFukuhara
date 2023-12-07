@@ -13,7 +13,7 @@ The sensei, a living embodiment of the enigmatic Yokuya Fukuhara, was a guardian
 One fateful evening, as the cherry blossoms painted the dojo courtyard in hues of pink and white, an ominous shadow slithered into the sacred grounds. A faceless adversary, a phantom from the abyss of vendetta, struck down the sensei with a precision that mirrored the very teachings he had imparted.
 
 
-Yokuya Fukuhara, now heir to the legacy of his fallen master, vowed to unveil the identity of this malevolent force that shattered the serenity of the dojo. Guided by the Seven Virtues of Bushido, Yokuya embarked on a journey, traversing landscapes both corporeal and spiritual. His every step was a dance of honor, his blade an extension of justice, and his heart echoed the silent hymns of courage and righteousness.
+Yokuya Fukuhara, now heir to the legacy of his fallen master. Guided by the Seven Virtues of Bushido, Yokuya embarked on a journey, traversing landscapes both corporeal and spiritual. His every step was a dance of honor, his blade an extension of justice, and his heart echoed the silent hymns of courage and righteousness.
 
 
 <img src="https://raw.githubusercontent.com/YokuyaFukuhara/YokuyaFukuhara/main/The_Seven_Virtues_Of_Bushido.jpg" alt="Always Follow" title="The 7 Virtues">
